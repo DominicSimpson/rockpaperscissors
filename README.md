@@ -1,4 +1,4 @@
-# rockpaperscissors
+# Rock Paper Scissors
 
 Rock-paper-scissors is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with their hand. The possible shapes are:
 
